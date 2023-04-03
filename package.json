@@ -1,6 +1,6 @@
 {
-  "name": "my-app",
-  "version": "0.1.0",
+  "name": "my-app4567893",
+  "version": "0.0.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
@@ -34,5 +34,18 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "test npm",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lmetduc/my-app-test.git"
+  },
+  "author": "lola",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lmetduc/my-app-test/issues"
+  },
+  "homepage": "https://github.com/lmetduc/my-app-test#readme"
 }

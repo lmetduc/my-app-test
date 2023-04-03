@@ -1,0 +1,35 @@
+p {
+    font-size: 60px;
+}
+
+.modal {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    width: 600px;
+    border: 1px solid;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+    background-color: white;
+}
+
+.modalActivate {
+    display: block;
+}
+
+.modalDesactivate {
+    display: none;
+}
+
+.modalFullPage {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    background: rgba(0, 128, 0);
+    z-index: 10;
+}
